@@ -1,0 +1,908 @@
+[
+  {
+    "id": 1,
+    "pokedexNumber": 1,
+    "name": "Bulbasaur",
+    "file": "0001.png"
+  },
+  {
+    "id": 2,
+    "pokedexNumber": 2,
+    "name": "Ivysaur",
+    "file": "0002.png"
+  },
+  {
+    "id": 3,
+    "pokedexNumber": 3,
+    "name": "Venusaur",
+    "file": "0003.png"
+  },
+  {
+    "id": 4,
+    "pokedexNumber": 4,
+    "name": "Charmander",
+    "file": "0004.png"
+  },
+  {
+    "id": 5,
+    "pokedexNumber": 5,
+    "name": "Charmeleon",
+    "file": "0005.png"
+  },
+  {
+    "id": 6,
+    "pokedexNumber": 6,
+    "name": "Charizard",
+    "file": "0006.png"
+  },
+  {
+    "id": 7,
+    "pokedexNumber": 7,
+    "name": "Squirtle",
+    "file": "0007.png"
+  },
+  {
+    "id": 8,
+    "pokedexNumber": 8,
+    "name": "Wartortle",
+    "file": "0008.png"
+  },
+  {
+    "id": 9,
+    "pokedexNumber": 9,
+    "name": "Blastoise",
+    "file": "0009.png"
+  },
+  {
+    "id": 10,
+    "pokedexNumber": 10,
+    "name": "Caterpie",
+    "file": "0010.png"
+  },
+  {
+    "id": 11,
+    "pokedexNumber": 11,
+    "name": "Metapod",
+    "file": "0011.png"
+  },
+  {
+    "id": 12,
+    "pokedexNumber": 12,
+    "name": "Butterfree",
+    "file": "0012.png"
+  },
+  {
+    "id": 13,
+    "pokedexNumber": 13,
+    "name": "Weedle",
+    "file": "0013.png"
+  },
+  {
+    "id": 14,
+    "pokedexNumber": 14,
+    "name": "Kakuna",
+    "file": "0014.png"
+  },
+  {
+    "id": 15,
+    "pokedexNumber": 15,
+    "name": "Beedrill",
+    "file": "0015.png"
+  },
+  {
+    "id": 16,
+    "pokedexNumber": 16,
+    "name": "Pidgey",
+    "file": "0016.png"
+  },
+  {
+    "id": 17,
+    "pokedexNumber": 17,
+    "name": "Pidgeotto",
+    "file": "0017.png"
+  },
+  {
+    "id": 18,
+    "pokedexNumber": 18,
+    "name": "Pidgeot",
+    "file": "0018.png"
+  },
+  {
+    "id": 19,
+    "pokedexNumber": 19,
+    "name": "Rattata",
+    "file": "0019.png"
+  },
+  {
+    "id": 20,
+    "pokedexNumber": 20,
+    "name": "Raticate",
+    "file": "0020.png"
+  },
+  {
+    "id": 21,
+    "pokedexNumber": 21,
+    "name": "Spearow",
+    "file": "0021.png"
+  },
+  {
+    "id": 22,
+    "pokedexNumber": 22,
+    "name": "Fearow",
+    "file": "0022.png"
+  },
+  {
+    "id": 23,
+    "pokedexNumber": 23,
+    "name": "Ekans",
+    "file": "0023.png"
+  },
+  {
+    "id": 24,
+    "pokedexNumber": 24,
+    "name": "Arbok",
+    "file": "0024.png"
+  },
+  {
+    "id": 25,
+    "pokedexNumber": 25,
+    "name": "Pikachu",
+    "file": "0025.png"
+  },
+  {
+    "id": 26,
+    "pokedexNumber": 26,
+    "name": "Raichu",
+    "file": "0026.png"
+  },
+  {
+    "id": 27,
+    "pokedexNumber": 27,
+    "name": "Sandshrew",
+    "file": "0027.png"
+  },
+  {
+    "id": 28,
+    "pokedexNumber": 28,
+    "name": "Sandslash",
+    "file": "0028.png"
+  },
+  {
+    "id": 29,
+    "pokedexNumber": 29,
+    "name": "Nidoran♀",
+    "file": "0029.png"
+  },
+  {
+    "id": 30,
+    "pokedexNumber": 30,
+    "name": "Nidorina",
+    "file": "0030.png"
+  },
+  {
+    "id": 31,
+    "pokedexNumber": 31,
+    "name": "Nidoqueen",
+    "file": "0031.png"
+  },
+  {
+    "id": 32,
+    "pokedexNumber": 32,
+    "name": "Nidoran♂",
+    "file": "0032.png"
+  },
+  {
+    "id": 33,
+    "pokedexNumber": 33,
+    "name": "Nidorino",
+    "file": "0033.png"
+  },
+  {
+    "id": 34,
+    "pokedexNumber": 34,
+    "name": "Nidoking",
+    "file": "0034.png"
+  },
+  {
+    "id": 35,
+    "pokedexNumber": 35,
+    "name": "Clefairy",
+    "file": "0035.png"
+  },
+  {
+    "id": 36,
+    "pokedexNumber": 36,
+    "name": "Clefable",
+    "file": "0036.png"
+  },
+  {
+    "id": 37,
+    "pokedexNumber": 37,
+    "name": "Vulpix",
+    "file": "0037.png"
+  },
+  {
+    "id": 38,
+    "pokedexNumber": 38,
+    "name": "Ninetales",
+    "file": "0038.png"
+  },
+  {
+    "id": 39,
+    "pokedexNumber": 39,
+    "name": "Jigglypuff",
+    "file": "0039.png"
+  },
+  {
+    "id": 40,
+    "pokedexNumber": 40,
+    "name": "Wigglytuff",
+    "file": "0040.png"
+  },
+  {
+    "id": 41,
+    "pokedexNumber": 41,
+    "name": "Zubat",
+    "file": "0041.png"
+  },
+  {
+    "id": 42,
+    "pokedexNumber": 42,
+    "name": "Golbat",
+    "file": "0042.png"
+  },
+  {
+    "id": 43,
+    "pokedexNumber": 43,
+    "name": "Oddish",
+    "file": "0043.png"
+  },
+  {
+    "id": 44,
+    "pokedexNumber": 44,
+    "name": "Gloom",
+    "file": "0044.png"
+  },
+  {
+    "id": 45,
+    "pokedexNumber": 45,
+    "name": "Vileplume",
+    "file": "0045.png"
+  },
+  {
+    "id": 46,
+    "pokedexNumber": 46,
+    "name": "Paras",
+    "file": "0046.png"
+  },
+  {
+    "id": 47,
+    "pokedexNumber": 47,
+    "name": "Parasect",
+    "file": "0047.png"
+  },
+  {
+    "id": 48,
+    "pokedexNumber": 48,
+    "name": "Venonat",
+    "file": "0048.png"
+  },
+  {
+    "id": 49,
+    "pokedexNumber": 49,
+    "name": "Venomoth",
+    "file": "0049.png"
+  },
+  {
+    "id": 50,
+    "pokedexNumber": 50,
+    "name": "Diglett",
+    "file": "0050.png"
+  },
+  {
+    "id": 51,
+    "pokedexNumber": 51,
+    "name": "Dugtrio",
+    "file": "0051.png"
+  },
+  {
+    "id": 52,
+    "pokedexNumber": 52,
+    "name": "Meowth",
+    "file": "0052.png"
+  },
+  {
+    "id": 53,
+    "pokedexNumber": 53,
+    "name": "Persian",
+    "file": "0053.png"
+  },
+  {
+    "id": 54,
+    "pokedexNumber": 54,
+    "name": "Psyduck",
+    "file": "0054.png"
+  },
+  {
+    "id": 55,
+    "pokedexNumber": 55,
+    "name": "Golduck",
+    "file": "0055.png"
+  },
+  {
+    "id": 56,
+    "pokedexNumber": 56,
+    "name": "Mankey",
+    "file": "0056.png"
+  },
+  {
+    "id": 57,
+    "pokedexNumber": 57,
+    "name": "Primeape",
+    "file": "0057.png"
+  },
+  {
+    "id": 58,
+    "pokedexNumber": 58,
+    "name": "Growlithe",
+    "file": "0058.png"
+  },
+  {
+    "id": 59,
+    "pokedexNumber": 59,
+    "name": "Arcanine",
+    "file": "0059.png"
+  },
+  {
+    "id": 60,
+    "pokedexNumber": 60,
+    "name": "Poliwag",
+    "file": "0060.png"
+  },
+  {
+    "id": 61,
+    "pokedexNumber": 61,
+    "name": "Poliwhirl",
+    "file": "0061.png"
+  },
+  {
+    "id": 62,
+    "pokedexNumber": 62,
+    "name": "Poliwrath",
+    "file": "0062.png"
+  },
+  {
+    "id": 63,
+    "pokedexNumber": 63,
+    "name": "Abra",
+    "file": "0063.png"
+  },
+  {
+    "id": 64,
+    "pokedexNumber": 64,
+    "name": "Kadabra",
+    "file": "0064.png"
+  },
+  {
+    "id": 65,
+    "pokedexNumber": 65,
+    "name": "Alakazam",
+    "file": "0065.png"
+  },
+  {
+    "id": 66,
+    "pokedexNumber": 66,
+    "name": "Machop",
+    "file": "0066.png"
+  },
+  {
+    "id": 67,
+    "pokedexNumber": 67,
+    "name": "Machoke",
+    "file": "0067.png"
+  },
+  {
+    "id": 68,
+    "pokedexNumber": 68,
+    "name": "Machamp",
+    "file": "0068.png"
+  },
+  {
+    "id": 69,
+    "pokedexNumber": 69,
+    "name": "Bellsprout",
+    "file": "0069.png"
+  },
+  {
+    "id": 70,
+    "pokedexNumber": 70,
+    "name": "Weepinbell",
+    "file": "0070.png"
+  },
+  {
+    "id": 71,
+    "pokedexNumber": 71,
+    "name": "Victreebel",
+    "file": "0071.png"
+  },
+  {
+    "id": 72,
+    "pokedexNumber": 72,
+    "name": "Tentacool",
+    "file": "0072.png"
+  },
+  {
+    "id": 73,
+    "pokedexNumber": 73,
+    "name": "Tentacruel",
+    "file": "0073.png"
+  },
+  {
+    "id": 74,
+    "pokedexNumber": 74,
+    "name": "Geodude",
+    "file": "0074.png"
+  },
+  {
+    "id": 75,
+    "pokedexNumber": 75,
+    "name": "Graveler",
+    "file": "0075.png"
+  },
+  {
+    "id": 76,
+    "pokedexNumber": 76,
+    "name": "Golem",
+    "file": "0076.png"
+  },
+  {
+    "id": 77,
+    "pokedexNumber": 77,
+    "name": "Ponyta",
+    "file": "0077.png"
+  },
+  {
+    "id": 78,
+    "pokedexNumber": 78,
+    "name": "Rapidash",
+    "file": "0078.png"
+  },
+  {
+    "id": 79,
+    "pokedexNumber": 79,
+    "name": "Slowpoke",
+    "file": "0079.png"
+  },
+  {
+    "id": 80,
+    "pokedexNumber": 80,
+    "name": "Slowbro",
+    "file": "0080.png"
+  },
+  {
+    "id": 81,
+    "pokedexNumber": 81,
+    "name": "Magnemite",
+    "file": "0081.png"
+  },
+  {
+    "id": 82,
+    "pokedexNumber": 82,
+    "name": "Magneton",
+    "file": "0082.png"
+  },
+  {
+    "id": 83,
+    "pokedexNumber": 83,
+    "name": "Farfetch'd",
+    "file": "0083.png"
+  },
+  {
+    "id": 84,
+    "pokedexNumber": 84,
+    "name": "Doduo",
+    "file": "0084.png"
+  },
+  {
+    "id": 85,
+    "pokedexNumber": 85,
+    "name": "Dodrio",
+    "file": "0085.png"
+  },
+  {
+    "id": 86,
+    "pokedexNumber": 86,
+    "name": "Seel",
+    "file": "0086.png"
+  },
+  {
+    "id": 87,
+    "pokedexNumber": 87,
+    "name": "Dewgong",
+    "file": "0087.png"
+  },
+  {
+    "id": 88,
+    "pokedexNumber": 88,
+    "name": "Grimer",
+    "file": "0088.png"
+  },
+  {
+    "id": 89,
+    "pokedexNumber": 89,
+    "name": "Muk",
+    "file": "0089.png"
+  },
+  {
+    "id": 90,
+    "pokedexNumber": 90,
+    "name": "Shellder",
+    "file": "0090.png"
+  },
+  {
+    "id": 91,
+    "pokedexNumber": 91,
+    "name": "Cloyster",
+    "file": "0091.png"
+  },
+  {
+    "id": 92,
+    "pokedexNumber": 92,
+    "name": "Gastly",
+    "file": "0092.png"
+  },
+  {
+    "id": 93,
+    "pokedexNumber": 93,
+    "name": "Haunter",
+    "file": "0093.png"
+  },
+  {
+    "id": 94,
+    "pokedexNumber": 94,
+    "name": "Gengar",
+    "file": "0094.png"
+  },
+  {
+    "id": 95,
+    "pokedexNumber": 95,
+    "name": "Onix",
+    "file": "0095.png"
+  },
+  {
+    "id": 96,
+    "pokedexNumber": 96,
+    "name": "Drowzee",
+    "file": "0096.png"
+  },
+  {
+    "id": 97,
+    "pokedexNumber": 97,
+    "name": "Hypno",
+    "file": "0097.png"
+  },
+  {
+    "id": 98,
+    "pokedexNumber": 98,
+    "name": "Krabby",
+    "file": "0098.png"
+  },
+  {
+    "id": 99,
+    "pokedexNumber": 99,
+    "name": "Kingler",
+    "file": "0099.png"
+  },
+  {
+    "id": 100,
+    "pokedexNumber": 100,
+    "name": "Voltorb",
+    "file": "0100.png"
+  },
+  {
+    "id": 101,
+    "pokedexNumber": 101,
+    "name": "Electrode",
+    "file": "0101.png"
+  },
+  {
+    "id": 102,
+    "pokedexNumber": 102,
+    "name": "Exeggcute",
+    "file": "0102.png"
+  },
+  {
+    "id": 103,
+    "pokedexNumber": 103,
+    "name": "Exeggutor",
+    "file": "0103.png"
+  },
+  {
+    "id": 104,
+    "pokedexNumber": 104,
+    "name": "Cubone",
+    "file": "0104.png"
+  },
+  {
+    "id": 105,
+    "pokedexNumber": 105,
+    "name": "Marowak",
+    "file": "0105.png"
+  },
+  {
+    "id": 106,
+    "pokedexNumber": 106,
+    "name": "Hitmonlee",
+    "file": "0106.png"
+  },
+  {
+    "id": 107,
+    "pokedexNumber": 107,
+    "name": "Hitmonchan",
+    "file": "0107.png"
+  },
+  {
+    "id": 108,
+    "pokedexNumber": 108,
+    "name": "Lickitung",
+    "file": "0108.png"
+  },
+  {
+    "id": 109,
+    "pokedexNumber": 109,
+    "name": "Koffing",
+    "file": "0109.png"
+  },
+  {
+    "id": 110,
+    "pokedexNumber": 110,
+    "name": "Weezing",
+    "file": "0110.png"
+  },
+  {
+    "id": 111,
+    "pokedexNumber": 111,
+    "name": "Rhyhorn",
+    "file": "0111.png"
+  },
+  {
+    "id": 112,
+    "pokedexNumber": 112,
+    "name": "Rhydon",
+    "file": "0112.png"
+  },
+  {
+    "id": 113,
+    "pokedexNumber": 113,
+    "name": "Chansey",
+    "file": "0113.png"
+  },
+  {
+    "id": 114,
+    "pokedexNumber": 114,
+    "name": "Tangela",
+    "file": "0114.png"
+  },
+  {
+    "id": 115,
+    "pokedexNumber": 115,
+    "name": "Kangaskhan",
+    "file": "0115.png"
+  },
+  {
+    "id": 116,
+    "pokedexNumber": 116,
+    "name": "Horsea",
+    "file": "0116.png"
+  },
+  {
+    "id": 117,
+    "pokedexNumber": 117,
+    "name": "Seadra",
+    "file": "0117.png"
+  },
+  {
+    "id": 118,
+    "pokedexNumber": 118,
+    "name": "Goldeen",
+    "file": "0118.png"
+  },
+  {
+    "id": 119,
+    "pokedexNumber": 119,
+    "name": "Seaking",
+    "file": "0119.png"
+  },
+  {
+    "id": 120,
+    "pokedexNumber": 120,
+    "name": "Staryu",
+    "file": "0120.png"
+  },
+  {
+    "id": 121,
+    "pokedexNumber": 121,
+    "name": "Starmie",
+    "file": "0121.png"
+  },
+  {
+    "id": 122,
+    "pokedexNumber": 122,
+    "name": "Mr. Mime",
+    "file": "0122.png"
+  },
+  {
+    "id": 123,
+    "pokedexNumber": 123,
+    "name": "Scyther",
+    "file": "0123.png"
+  },
+  {
+    "id": 124,
+    "pokedexNumber": 124,
+    "name": "Jynx",
+    "file": "0124.png"
+  },
+  {
+    "id": 125,
+    "pokedexNumber": 125,
+    "name": "Electabuzz",
+    "file": "0125.png"
+  },
+  {
+    "id": 126,
+    "pokedexNumber": 126,
+    "name": "Magmar",
+    "file": "0126.png"
+  },
+  {
+    "id": 127,
+    "pokedexNumber": 127,
+    "name": "Pinsir",
+    "file": "0127.png"
+  },
+  {
+    "id": 128,
+    "pokedexNumber": 128,
+    "name": "Tauros",
+    "file": "0128.png"
+  },
+  {
+    "id": 129,
+    "pokedexNumber": 129,
+    "name": "Magikarp",
+    "file": "0129.png"
+  },
+  {
+    "id": 130,
+    "pokedexNumber": 130,
+    "name": "Gyarados",
+    "file": "0130.png"
+  },
+  {
+    "id": 131,
+    "pokedexNumber": 131,
+    "name": "Lapras",
+    "file": "0131.png"
+  },
+  {
+    "id": 132,
+    "pokedexNumber": 132,
+    "name": "Ditto",
+    "file": "0132.png"
+  },
+  {
+    "id": 133,
+    "pokedexNumber": 133,
+    "name": "Eevee",
+    "file": "0133.png"
+  },
+  {
+    "id": 134,
+    "pokedexNumber": 134,
+    "name": "Vaporeon",
+    "file": "0134.png"
+  },
+  {
+    "id": 135,
+    "pokedexNumber": 135,
+    "name": "Jolteon",
+    "file": "0135.png"
+  },
+  {
+    "id": 136,
+    "pokedexNumber": 136,
+    "name": "Flareon",
+    "file": "0136.png"
+  },
+  {
+    "id": 137,
+    "pokedexNumber": 137,
+    "name": "Porygon",
+    "file": "0137.png"
+  },
+  {
+    "id": 138,
+    "pokedexNumber": 138,
+    "name": "Omanyte",
+    "file": "0138.png"
+  },
+  {
+    "id": 139,
+    "pokedexNumber": 139,
+    "name": "Omastar",
+    "file": "0139.png"
+  },
+  {
+    "id": 140,
+    "pokedexNumber": 140,
+    "name": "Kabuto",
+    "file": "0140.png"
+  },
+  {
+    "id": 141,
+    "pokedexNumber": 141,
+    "name": "Kabutops",
+    "file": "0141.png"
+  },
+  {
+    "id": 142,
+    "pokedexNumber": 142,
+    "name": "Aerodactyl",
+    "file": "0142.png"
+  },
+  {
+    "id": 143,
+    "pokedexNumber": 143,
+    "name": "Snorlax",
+    "file": "0143.png"
+  },
+  {
+    "id": 144,
+    "pokedexNumber": 144,
+    "name": "Articuno",
+    "file": "0144.png"
+  },
+  {
+    "id": 145,
+    "pokedexNumber": 145,
+    "name": "Zapdos",
+    "file": "0145.png"
+  },
+  {
+    "id": 146,
+    "pokedexNumber": 146,
+    "name": "Moltres",
+    "file": "0146.png"
+  },
+  {
+    "id": 147,
+    "pokedexNumber": 147,
+    "name": "Dratini",
+    "file": "0147.png"
+  },
+  {
+    "id": 148,
+    "pokedexNumber": 148,
+    "name": "Dragonair",
+    "file": "0148.png"
+  },
+  {
+    "id": 149,
+    "pokedexNumber": 149,
+    "name": "Dragonite",
+    "file": "0149.png"
+  },
+  {
+    "id": 150,
+    "pokedexNumber": 150,
+    "name": "Mewtwo",
+    "file": "0150.png"
+  },
+  {
+    "id": 151,
+    "pokedexNumber": 151,
+    "name": "Mew",
+    "file": "0151.png"
+  }
+]
